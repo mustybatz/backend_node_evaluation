@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07d7d012-e060-473e-ac4e-2c785ce9b25b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/category/category.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/category/category.network.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/category/category.store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/category/controller.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/product.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/product.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/product.network.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/product.store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DatabaseConnectionError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/categories.e2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/categories.e2e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sRaj5fc9g5u8Ks4nU1LHnUMGmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\barus\Desktop\backend_node_evaluation\src\db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07d7d012-e060-473e-ac4e-2c785ce9b25b" name="Default Changelist" comment="" />
+      <created>1620837993731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620837993731</updated>
+      <workItem from="1620837999813" duration="3255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
